@@ -1,0 +1,20 @@
+public class Nivel03_Nucleo {
+
+    public static void main(String[] args) {
+
+        boolean distancia = true;
+        int sentimento = 0;
+
+        if (distancia) {
+            sentimento++;
+        }
+
+        if (sentimento > 0) {
+            System.out.println("Você me tem como ninguém,");
+            System.out.println("mesmo distante.");
+        }
+
+        System.out.println("Isso não foi planejado.");
+        System.out.println("Mas é real.");
+    }
+}

@@ -1,0 +1,10 @@
+public class Nivel01_Inicio {
+
+    public static void main(String[] args) {
+        System.out.println("Não é grande.");
+        System.out.println("Nem urgente.");
+        System.out.println("");
+        System.out.println("Mas foi feito com cuidado.");
+        System.out.println("Abra na ordem.");
+    }
+}

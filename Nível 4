@@ -1,0 +1,21 @@
+// arquivo auxiliar
+// não é necessário executar
+
+public class Utils {
+
+    private static String segredo() {
+        return "você";
+    }
+
+    public static void main(String[] args) {
+
+        System.out.println("Se você chegou até aqui,");
+        System.out.println("foi porque quis procurar.");
+
+        System.out.println("");
+        System.out.println("Em tão pouco tempo,");
+        System.out.println("você me faz feliz todos os dias.");
+
+        System.out.println("Resultado final: " + segredo());
+    }
+}

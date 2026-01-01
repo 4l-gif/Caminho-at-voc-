@@ -1,0 +1,14 @@
+public class Nivel02_Conexao {
+
+    public static void main(String[] args) {
+
+        int conversas = 0;
+        int efeito = 0;
+
+        while (conversas < 1) {
+            conversas++;
+            efeito++;
+        }
+
+        if (efeito > 0) {
+            System.out.println("Você virou parte dos meus dias.");
